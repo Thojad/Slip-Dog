@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: b2e5e85eceff3844684bb73e8373e9e4
+timeCreated: 1486596425
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Andenes
+    100002: ArbolCopa
+    100004: Arboldoblecopas
+    100006: ArbolTripleCopa
+    100008: Arbustos
+    100010: CanecasBasura
+    100012: Capillas
+    100014: Faroles
+    100016: Flores
+    100018: Flores_001
+    100020: Flores_002
+    100022: Flores_003
+    100024: Flores_004
+    100026: Flores_005
+    100028: Fuentes
+    100030: Muros
+    100032: //RootNode
+    100034: Pinos
+    100036: Plano
+    100038: Rocas
+    100040: Sillas
+    400000: Andenes
+    400002: ArbolCopa
+    400004: Arboldoblecopas
+    400006: ArbolTripleCopa
+    400008: Arbustos
+    400010: CanecasBasura
+    400012: Capillas
+    400014: Faroles
+    400016: Flores
+    400018: Flores_001
+    400020: Flores_002
+    400022: Flores_003
+    400024: Flores_004
+    400026: Flores_005
+    400028: Fuentes
+    400030: Muros
+    400032: //RootNode
+    400034: Pinos
+    400036: Plano
+    400038: Rocas
+    400040: Sillas
+    2300000: Andenes
+    2300002: ArbolCopa
+    2300004: Arboldoblecopas
+    2300006: ArbolTripleCopa
+    2300008: Arbustos
+    2300010: CanecasBasura
+    2300012: Capillas
+    2300014: Faroles
+    2300016: Flores
+    2300018: Flores_001
+    2300020: Flores_002
+    2300022: Flores_003
+    2300024: Flores_004
+    2300026: Flores_005
+    2300028: Fuentes
+    2300030: Muros
+    2300032: Pinos
+    2300034: Plano
+    2300036: Rocas
+    2300038: Sillas
+    3300000: Andenes
+    3300002: ArbolCopa
+    3300004: Arboldoblecopas
+    3300006: ArbolTripleCopa
+    3300008: Arbustos
+    3300010: CanecasBasura
+    3300012: Capillas
+    3300014: Faroles
+    3300016: Flores
+    3300018: Flores_001
+    3300020: Flores_002
+    3300022: Flores_003
+    3300024: Flores_004
+    3300026: Flores_005
+    3300028: Fuentes
+    3300030: Muros
+    3300032: Pinos
+    3300034: Plano
+    3300036: Rocas
+    3300038: Sillas
+    4300000: Flores_005
+    4300002: Flores_004
+    4300004: Flores_003
+    4300006: Flores_002
+    4300008: Flores_001
+    4300010: Arboldoblecopas
+    4300012: Fuentes
+    4300014: Flores
+    4300016: Andenes
+    4300018: Plano
+    4300020: CanecasBasura
+    4300022: ArbolCopa
+    4300024: Muros
+    4300026: ArbolTripleCopa
+    4300028: Faroles
+    4300030: Rocas
+    4300032: Pinos
+    4300034: Arbustos
+    4300036: Sillas
+    4300038: Capillas
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
